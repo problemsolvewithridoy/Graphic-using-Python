@@ -56,3 +56,13 @@ done()
 ![output](https://user-images.githubusercontent.com/123636419/215391010-9fc558a2-8f0e-485e-9d09-8e22118e8c91.PNG)
 
 
+You can follow me
+
+Facebook:- https://www.facebook.com/problemsolvewithridoy/
+
+Linkedin:- https://www.linkedin.com/in/ridoyhossain/
+
+YouTube:- https://www.youtube.com/@problemsolvewithridoy
+
+If you have any confusion, please feel free to contact me. Thank you
+
