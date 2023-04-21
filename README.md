@@ -1,7 +1,8 @@
 
 # Graphic using python
 
-In this project, you can do a Graphic start design. To make this project you need to follow this step:-
+"Graphic using Python turtle" is a GitHub repository that provides a collection of Python scripts for creating graphics using the Python turtle library. The turtle library is a standard Python library that provides an easy-to-use interface for creating graphics and animations. The repository includes code examples for creating simple and complex shapes, drawing with various colors and line styles, and even creating animated graphics. The code is well-documented and designed for beginners to learn and experiment with the turtle library. The repository is open source, allowing users to contribute to the codebase and improve the collection of graphics examples.
+you need to follow this step:-
 
 
 
